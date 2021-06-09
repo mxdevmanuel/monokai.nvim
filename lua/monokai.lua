@@ -470,11 +470,11 @@ function monokai.load_plugin_syntax()
             sp = monokai.aqua
         },
         CursorWord0 = {
-            bg = monokai.white
+            bg = monokai.white,
             fg = monokai.black
         },
         CursorWord1 = {
-            bg = monokai.white
+            bg = monokai.white,
             fg = monokai.black
         },
         NvimTreeFolderName = {
