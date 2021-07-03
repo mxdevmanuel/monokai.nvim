@@ -74,7 +74,7 @@ M.load_syntax = function(palette)
     return {
         Normal = {
             fg = palette.white,
-            bg = palette.none,
+            bg = palette.base2,
         },
         NormalFloat = {
             fg = palette.none,
@@ -174,7 +174,7 @@ M.load_syntax = function(palette)
         },
         StatusLine = {
             fg = palette.base7,
-            bg = palette.base2,
+            bg = palette.base5,
             style = palette.none,
         },
         StatusLineNC = {
