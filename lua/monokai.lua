@@ -377,7 +377,7 @@ M.load_syntax = function(palette)
             bg = palette.base3,
         },
         Whitespace = {
-            fg = palette.base3,
+            fg = palette.base4,
         },
         WildMenu = {
             fg = palette.white,
