@@ -179,7 +179,7 @@ M.load_syntax = function(palette)
         },
         StatusLineNC = {
             fg = palette.grey,
-            bg = palette.base2,
+            bg = palette.base4,
             style = palette.none,
         },
         Tabline = {
